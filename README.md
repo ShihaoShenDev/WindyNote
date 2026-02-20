@@ -1,1 +1,2 @@
-# WinUINotes
+# WindyNote
+WinUI Note App
