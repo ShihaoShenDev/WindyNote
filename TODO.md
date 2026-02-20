@@ -1,2 +1,2 @@
 # To Do List
-- [x] 补全 README。
+- [ ] 补全 README。
