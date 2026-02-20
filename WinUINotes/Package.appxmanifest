@@ -8,7 +8,7 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="ShihaoShen.NoteAppWinUI3"
+    Name="ShihaoShen.WindyNote"
     Publisher="CN=Shihao Shen"
     Version="1.0.0.0" />
 
