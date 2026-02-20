@@ -1,2 +1,2 @@
 # To Do List
-- [ ] Write README
+- [x] Write README
